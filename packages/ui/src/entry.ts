@@ -14,7 +14,7 @@
 //   },
 // }
 
-import type { Plugin } from 'vue'
+// import type { Plugin } from 'vue'
 // import { version } from '../../../package.json'
 import plugins from './plugins'
 import 'virtual:uno.css'
