@@ -1,0 +1,26 @@
+{
+  "name": "@moumo/invis-ui-docs",
+  "type": "module",
+  "version": "1.0.1",
+  "private": true,
+  "description": "组件库文档",
+  "author": "hcy",
+  "license": "ISC",
+  "keywords": [],
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "serve": "vitepress serve"
+  },
+  "dependencies": {
+    "@moumo/ssy-ui-vite": "^1.1.1",
+    "@vitejs/plugin-vue-jsx": "catalog:",
+    "version": "^0.1.2",
+    "vite": "catalog:"
+  },
+  "devDependencies": {
+    "vitepress": "^1.5.0",
+    "vitepress-theme-demoblock": "3.0.7"
+  }
+}
