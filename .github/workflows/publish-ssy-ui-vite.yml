@@ -30,8 +30,8 @@ jobs:
       - name: Install Dependencies
         run: pnpm i
 
-      - name: PNPM build
-        run: pnpm run build
+      # - name: PNPM build
+      #   run: pnpm run build
 
       - name: copy readme
         run: cp README.md ./packages/ui/
