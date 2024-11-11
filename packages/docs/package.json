@@ -1,7 +1,7 @@
 {
   "name": "@moumo/invis-ui-docs",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "组件库文档",
   "author": "moumo",
